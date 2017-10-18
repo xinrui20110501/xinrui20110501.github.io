@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: stormzhang博客精华
+keywords: stormzhang, storm, android, java, android developer, android开发, android技术分享, performance
+description: Focus Android, Love Open Source, Performance Optimization, Coding now
+categories: [Android]
+---
+{% include codepiano/setup %}
 
-You can use the [editor on GitHub](https://github.com/xinrui20110501/xinrui20110501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 每周推荐
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[AndroidDeveloper Weekly No.4](http://stormzhang.com/weekly/2016/08/08/android-developer-weekly-no-4/)
 
-### Markdown
+[Android开源项目推荐之「网络请求哪家强」](http://stormzhang.com/opensource/2016/08/05/android-open-source-project-recommend2/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[如何发现优秀的开源项目？](http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/)
 
-```markdown
-Syntax highlighted code block
+[给 Android 初学者的 Gradle 知识普及](http://stormzhang.com/android/2016/07/02/gradle-for-android-beginners/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* 我的微信公众号: AndroidDeveloper「googdev」 (专注Android的原创分享，关注并回复googdev自学Android资料免费获取)
 
-1. Numbered
-2. List
+<img src="/image/weixinpublic.jpg" />
 
-**Bold** and _Italic_ and `Code` text
+## 精品文章系列
 
-[Link](url) and ![Image](src)
-```
+[AndroidDeveloper Weekly 系列](http://stormzhang.com/weekly/2016/07/26/android-developer-weekly/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[从0开始学习 GitHub 系列汇总](http://stormzhang.com/github/2016/06/19/learn-github-from-zero-summary/)
 
-### Jekyll Themes
+[自学 Android 编程系列](http://stormzhang.com/android/2016/06/10/learn-android-byself/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinrui20110501/xinrui20110501.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Android Studio 详细教程汇总](http://stormzhang.com/devtools/2015/06/17/android-studio-all)
 
-### Support or Contact
+[靠谱VPN推荐--云梯VPN](http://refyt.com/?r=a9b90a505050781a)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 微信公众号近期文章
+
+[少年，别再收藏文章了！](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661932&idx=1&sn=8325f8bd782a376434a5bf69e4f38dee#rd)
+
+[我面试到底问什么？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661871&idx=1&sn=158c380826bb9138fdb2976152dc279b#rd)
+
+[自学编程这几点非常重要](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661865&idx=1&sn=085e2be66714763b5550c54e9253883a#rd)
+
+[公众号历史精品文章汇总](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=503177922&idx=1&sn=6ef35c039a6564b1cec6343754a6c004&scene=23&srcid=0527Py9mKBRTPAWeo7GkikDO#rd)
+
+<!-- <a href="http://m.jianxun.io/event/2?from=stormzhang"><img src="http://www.jianxun.io/ad/20151101/eventno2-stormzhang-banner.png" /></a> -->
+
+## 我的GitHub开源项目
+
+[9GAG](https://github.com/stormzhang/9GAG)
+
+[CustomLoading](https://github.com/stormzhang/CustomLoading)
+
+[SwipeRefreshLayoutDemo](https://github.com/stormzhang/SwipeRefreshLayoutDemo)
+
+<br />
+
+<div id="comment-hook">
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="88888" data-title="{{ page.title }}" data-url="http://stormzhang.com{{ page.url }}"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"stormzhang"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+</div>
